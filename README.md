@@ -7,8 +7,8 @@ https://nelsonramos.cl/jsontocsv/
 
 - [Vue 3](https://vuejs.org/)
 - [Vite](https://vitejs.dev/)
-- [Tailwind CSS](https://tailwindcss.com/) (si aplica)
-- [Vercel](https://vercel.com/) (para despliegue)
+- [Tailwind CSS](https://tailwindcss.com/)
+
 
 ## 📦 Instalación
 
